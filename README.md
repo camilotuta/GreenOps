@@ -1,16 +1,12 @@
 # <center ><h2 style="color:#9370D8">GREENOPS</h2></center>
 
-<h6 align="right">Miguel Angel Bejarano</h6>
 <h6 align="right">Adrián Camilo Tuta Cortés</h6>
+<h6 align="right">Miguel Angel Bejarano</h6>
 <h6 align="right">2023-2</h6>
 
 ---
 
 ## <center> <h6>OPTIMIZACIÓN SOSTENIBLE DE PROCESOS INDUSTRIALES</h6></center>
-
-![Icono App](/img/icon.png)
-
-![Logo grande](/img/banner.png)
 
 ## Descripción del Proyecto
 
