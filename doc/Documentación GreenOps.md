@@ -4,7 +4,7 @@
 
 ---
 
-## <center> <h6>OPTIMIZACIÓN SOSTENIBLE DE PROCESOS INDUSTRIALES</h6></center>
+## <center> <h6>Transformando Industrias, Preservando el Planeta.</h6></center>
 
 - Problemática
 
@@ -19,9 +19,11 @@
 
 ### DESCRIPCIÓN DEL PROYECTO
 
+###### <h6>OPTIMIZACIÓN SOSTENIBLE DE PROCESOS INDUSTRIALES</h6>
+
 _GreenOps_ es un proyecto de software que busca abordar la problemática de la acción por el clima, enfocándose en la optimización sostenible de procesos industriales. La idea central es utilizar el modelado y simulación de estos procesos para identificar oportunidades que permitan reducir el consumo de recursos, minimizar residuos y mejorar la eficiencia general.
 
-### 1. EVALÚEN VENTAJAS Y DESVENTAJAS ANTES DE TOMAR UNA DECISIÓN:
+### 1. EVALUAR VENTAJAS Y DESVENTAJAS:
 
 | Ventajas                                           | Desventajas                   |
 | -------------------------------------------------- | ----------------------------- |
@@ -31,7 +33,7 @@ _GreenOps_ es un proyecto de software que busca abordar la problemática de la a
 | Competitividad en el Mercado                       | Limitaciones Tecnológicas     |
 | Mejora Continua                                    |                               |
 
-### 2. DEFINICIÓN GENERAL DEL PROYECTO DE SOFTWARE:
+### 2. DEFINICIÓN GENERAL:
 
 - #### 1. Definición del problema:
 
