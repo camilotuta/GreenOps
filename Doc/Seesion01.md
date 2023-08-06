@@ -10,12 +10,17 @@
 
   - Acción por el clima.
 
-  - ![Alt text](image.png)
+  - ![Alt text](/Proyects/Análisis%20y%20diseño%20de%20software/GreenOps/img/image.png)
   - _**9.4: "De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."**_
 
 **Modelado y simulación de procesos industriales:** El software de modelado y simulación puede ayudar a analizar y optimizar los procesos industriales, identificando oportunidades para reducir el consumo de recursos, minimizar residuos y mejorar la eficiencia general.
 
 ---
+
+<!-- LOGO: [Looka](https://looka.com/dashboard) -->
+
+![Icono App](/Proyects/Análisis%20y%20diseño%20de%20software/GreenOps/img/image-1.png)
+![Logo grande](/Proyects/Análisis%20y%20diseño%20de%20software/GreenOps/img/image-2.png)
 
 ### 1. EVALÚEN VENTAJAS Y DESVENTAJAS ANTES DE TOMAR UNA DECISIÓN:
 
