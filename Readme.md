@@ -8,9 +8,9 @@
 
 ## <center> <h6>OPTIMIZACIÓN SOSTENIBLE DE PROCESOS INDUSTRIALES</h6></center>
 
-![Icono App](/Proyects/GreenOps/img/icon.png)
+![Icono App](/img/icon.png)
 
-![Logo grande](/Proyects/GreenOps/img/banner.png)
+![Logo grande](/img/banner.png)
 
 ## Descripción del Proyecto
 
