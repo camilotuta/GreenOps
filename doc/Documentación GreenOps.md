@@ -1,28 +1,33 @@
 <p align="center">
   <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
+
 <h6 align="right">Adrián Camilo Tuta Cortés y Miguel Angel Bejarano</h6>
 <h6 align="right">04-08-2023</h6>
 
 ---
 
-## <center> <h6>Transformando Industrias, Preservando el Planeta.</h6></center>
+## <center><h6>Transformando Industrias, Preservando el Planeta.</h6></center>
 
-- Problemática
+- **Problemática**
 
   - Acción por el clima.
 
-  - <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/objetivo13.png?raw=true" alt="GreenOps Logo" width="300"/>
+  <p align="center">
+    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/objetivo13.png?raw=true" alt="GreenOps Logo" width="300"/>
+  </p>
 
-  - > _"De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."_ - Objetivo 9.4 de Desarrollo Sostenible
+  > _"De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."_ - Objetivo 9.4 de Desarrollo Sostenible
 
 **Modelado y simulación de procesos industriales:** El software de modelado y simulación puede ayudar a analizar y optimizar los procesos industriales, identificando oportunidades para reducir el consumo de recursos, minimizar residuos y mejorar la eficiencia general.
 
 ---
 
-### DESCRIPCIÓN DEL PROYECTO
+## <center>DESCRIPCIÓN DEL PROYECTO</center>
 
-###### <h6>OPTIMIZACIÓN SOSTENIBLE DE PROCESOS INDUSTRIALES</h6>
+<center>
+  <h6>OPTIMIZACIÓN SOSTENIBLE DE PROCESOS INDUSTRIALES</h6>
+</center>
 
 _GreenOps_ es un proyecto de software que busca abordar la problemática de la acción por el clima, enfocándose en la optimización sostenible de procesos industriales. La idea central es utilizar el modelado y simulación de estos procesos para identificar oportunidades que permitan reducir el consumo de recursos, minimizar residuos y mejorar la eficiencia general.
 
@@ -65,7 +70,7 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 ### 3. ESPECIFICACIÓN INICIAL DE REQUERIMIENTOS:
 
 - Antecedentes:
-  https://geekflare.com/es/best-process-management-software/
+  <!-- https://geekflare.com/es/best-process-management-software/ -->
 
   | Aplicación | Característica-1                  | Característica-2                   | Característica-3            | Característica-4                  |
   | ---------- | --------------------------------- | ---------------------------------- | --------------------------- | --------------------------------- |
@@ -75,12 +80,27 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 - **Requisitos funcionales:**
   Considere cuales serán los requisitos funcionales de la aplicación. Estas características deben ser coherentes con el análisis realizado en el punto anterior, y presentar un valor agregado en comparación con las aplicaciones existentes. Represente los requisitos funcionales a través de un árbol de descomposición funcional (máximo 4 niveles de profundidad)
+
 - **Requisitos no funcionales:**
   mencione cuáles son los requisitos no funcionales más relevantes para el contexto del proyecto. Justifique su respuesta.
+
 - **Alcances del sistema:**
   las limitaciones y alcances del desarrollo según los objetivos previamente establecidos (considere la triple restricción)
+
 - **Tecnologías seleccionadas:**
-  mencione los entornos de desarrollo, plataformas y herramientas empleadas en la implementación del sistema.
+  _GreenOps_ se desarrollará utilizando las siguientes tecnologías:
+
+  - Lenguaje de Programación: _Java_.
+
+  - Entorno de Desarrollo: _Visual Studio Code_, NetBeans, NeoVim.
+
+  - Bibliotecas y Frameworks: Swing.
+
+  - Base de Datos: MySQL.
+
+  - Control de Versiones: Git.
+
+  - Plataforma de Despliegue: Docker.
 
 ### **_Toda la información debe estar almacenada en la página del proyecto._**
 
@@ -88,7 +108,7 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 ---
 
-## <center> <h6>APLICACIÓN</h6></center>
+# <center> <h6>APLICACIÓN</h6></center>
 
 <!-- LOGO: [Looka](https://looka.com/dashboard) -->
 
@@ -96,11 +116,15 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 - #### Icono de la aplicación:
 
-  - <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/icon.png?raw=true" alt="GreenOps icon" width="300"/>
+  <p align="center">
+    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/icon.png?raw=true" alt="GreenOps icon" width="200"/>
+  </p>
 
 - #### Logo grande:
 
-  - <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps banner" width="300"/>
+  <p align="center">
+    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps banner" width="300"/>
+  </p>
 
 ### 2. TIPOGRAFÍA
 
@@ -114,16 +138,16 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 | Elemento       | Código de Color | Ejemplo                                                                                                                                           |
 | -------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fondo          | `#16161a`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorFondo.png?raw=true" alt="Color de Fondo " width="300"/>               |
-| Encabezado     | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorEncabezado.png?raw=true" alt="Color de Encabezado " width="300"/>     |
-| Párrafo        | `#94a1b2`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorParrafo.png?raw=true" alt="Color de Párrafo " width="300"/>           |
-| Botón          | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBoton.png?raw=true" alt="Color de Botón " width="300"/>               |
-| Texto de Botón | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTextoBoton.png?raw=true" alt="Color de Texto de Botón " width="300"/> |
-| Resaltado      | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorResaltado.png?raw=true" alt="Color de Resaltado " width="300"/>       |
-| Borde          | `#010101`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBorde.png?raw=true" alt="Color de Borde " width="300"/>               |
-| Principal      | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorPrincipal.png?raw=true" alt="Color de Principal " width="300"/>       |
-| Secundario     | `#72757e`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorSecundario.png?raw=true" alt="Color de Secundario " width="300"/>     |
-| Terciario      | `#2cb67d`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTerciario.png?raw=true" alt="Color de Terciario " width="300"/>       |
+| Fondo          | `#16161a`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorFondo.png?raw=true" alt="Color de Fondo " width="200"/>               |
+| Encabezado     | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorEncabezado.png?raw=true" alt="Color de Encabezado " width="200"/>     |
+| Párrafo        | `#94a1b2`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorParrafo.png?raw=true" alt="Color de Párrafo " width="200"/>           |
+| Botón          | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBoton.png?raw=true" alt="Color de Botón " width="200"/>               |
+| Texto de Botón | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTextoBoton.png?raw=true" alt="Color de Texto de Botón " width="200"/> |
+| Resaltado      | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorResaltado.png?raw=true" alt="Color de Resaltado " width="200"/>       |
+| Borde          | `#010101`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBorde.png?raw=true" alt="Color de Borde " width="200"/>               |
+| Principal      | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorPrincipal.png?raw=true" alt="Color de Principal " width="200"/>       |
+| Secundario     | `#72757e`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorSecundario.png?raw=true" alt="Color de Secundario " width="200"/>     |
+| Terciario      | `#2cb67d`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTerciario.png?raw=true" alt="Color de Terciario " width="200"/>       |
 
 ### 4. PANTALLAS
 
