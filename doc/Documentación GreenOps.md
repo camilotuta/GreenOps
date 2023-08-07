@@ -1,5 +1,7 @@
-# <center ><h2 style="color:#9370D8">GREENOPS</h2></center>
-
+<p align="center">
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
+</p>
+<h6 align="right">Adrián Camilo Tuta Cortés y Miguel Angel Bejarano</h6>
 <h6 align="right">04-08-2023</h6>
 
 ---
@@ -10,7 +12,8 @@
 
   - Acción por el clima.
 
-  - ![Alt text](/Proyects/GreenOps/img/objetivo13.png)
+  - <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/objetivo13.png?raw=true" alt="GreenOps Logo" width="300"/>
+
   - > _"De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."_ - Objetivo 9.4 de Desarrollo Sostenible
 
 **Modelado y simulación de procesos industriales:** El software de modelado y simulación puede ayudar a analizar y optimizar los procesos industriales, identificando oportunidades para reducir el consumo de recursos, minimizar residuos y mejorar la eficiencia general.
@@ -92,9 +95,12 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 ### 1. LOGOS
 
 - #### Icono de la aplicación:
-  - ![Icono App](/Proyects/GreenOps/img/icon.png)
+
+  - <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/icon.png?raw=true" alt="GreenOps icon" width="300"/>
+
 - #### Logo grande:
-  - ![Logo grande](/Proyects/GreenOps/img/banner.png)
+
+  - <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps banner" width="300"/>
 
 ### 2. TIPOGRAFÍA
 
@@ -106,18 +112,18 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 <!-- https://www.happyhues.co/palettes/4 -->
 
-| Elemento       | Código de Color | Ejemplo                                                                |
-| -------------- | --------------- | ---------------------------------------------------------------------- |
-| Fondo          | `#16161a`       | ![Color de Fondo ](/Proyects/GreenOps/img/colorFondo.png)              |
-| Encabezado     | `#fffffe`       | ![Color de Encabezado ](/Proyects/GreenOps/img/colorEncabezado.png)    |
-| Párrafo        | `#94a1b2`       | ![Color de Párrafo ](/Proyects/GreenOps/img/colorParrafo.png)          |
-| Botón          | `#7f5af0`       | ![Color de Botón ](/Proyects/GreenOps/img/colorBoton.png)              |
-| Texto de Botón | `#fffffe`       | ![Color de Texto de Botón](/Proyects/GreenOps/img/colorTextoBoton.png) |
-| Resaltado      | `#7f5af0`       | ![Color de Resaltado ](/Proyects/GreenOps/img/colorResaltado.png)      |
-| Borde          | `#010101`       | ![Color de Borde ](/Proyects/GreenOps/img/colorBorde.png)              |
-| Principal      | `#fffffe`       | ![Color de Principal ](/Proyects/GreenOps/img/colorPrincipal.png)      |
-| Secundario     | `#72757e`       | ![Color de Secundario ](/Proyects/GreenOps/img/colorSecundario.png)    |
-| Terciario      | `#2cb67d`       | ![Color de Terciario ](/Proyects/GreenOps/img/colorTerciario.png)      |
+| Elemento       | Código de Color | Ejemplo                                                                                                                                           |
+| -------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fondo          | `#16161a`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorFondo.png?raw=true" alt="Color de Fondo " width="300"/>               |
+| Encabezado     | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorEncabezado.png?raw=true" alt="Color de Encabezado " width="300"/>     |
+| Párrafo        | `#94a1b2`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorParrafo.png?raw=true" alt="Color de Párrafo " width="300"/>           |
+| Botón          | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBoton.png?raw=true" alt="Color de Botón " width="300"/>               |
+| Texto de Botón | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTextoBoton.png?raw=true" alt="Color de Texto de Botón " width="300"/> |
+| Resaltado      | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorResaltado.png?raw=true" alt="Color de Resaltado " width="300"/>       |
+| Borde          | `#010101`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBorde.png?raw=true" alt="Color de Borde " width="300"/>               |
+| Principal      | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorPrincipal.png?raw=true" alt="Color de Principal " width="300"/>       |
+| Secundario     | `#72757e`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorSecundario.png?raw=true" alt="Color de Secundario " width="300"/>     |
+| Terciario      | `#2cb67d`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTerciario.png?raw=true" alt="Color de Terciario " width="300"/>       |
 
 ### 4. PANTALLAS
 

@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://example.com/your-image-url.png" alt="GreenOps Logo" width="200"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
 
-<h1 align="center">GreenOps</h1>
-
-<p align="right">
-  <em>Por Adrián Camilo Tuta Cortés y Miguel Angel Bejarano</em><br>
-  <em>2023-2</em>
-</p>
+<h6 align="right">Adrián Camilo Tuta Cortés y Miguel Angel Bejarano</h6>
+<h6 align="right">04-08-2023</h6>
 
 ---
 
