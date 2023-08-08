@@ -13,7 +13,7 @@
 
   - Financia proyectos de infraestructura básica.
   <p align="center">
-    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/objetivo9.png?raw=true" alt="GreenOps Logo" width="300"/>
+    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/Objetivo9.png?raw=true" alt="GreenOps Logo" width="300"/>
   </p>
 
   > _"De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."_ - Objetivo 9.4 de Desarrollo Sostenible
