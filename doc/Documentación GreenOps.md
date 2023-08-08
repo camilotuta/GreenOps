@@ -11,10 +11,9 @@
 
 - **Problemática**
 
-  - Acción por el clima.
-
+  - Financia proyectos de infraestructura básica.
   <p align="center">
-    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/objetivo13.png?raw=true" alt="GreenOps Logo" width="300"/>
+    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/objetivo9.png?raw=true" alt="GreenOps Logo" width="300"/>
   </p>
 
   > _"De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."_ - Objetivo 9.4 de Desarrollo Sostenible
@@ -72,20 +71,195 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 - Antecedentes:
   <!-- https://geekflare.com/es/best-process-management-software/ -->
 
-  | Aplicación | Característica-1                  | Característica-2                   | Característica-3            | Característica-4                  |
-  | ---------- | --------------------------------- | ---------------------------------- | --------------------------- | --------------------------------- |
-  | Creatio    | Gestión de Procesos Empresariales | Automatización de Flujo de Trabajo | Panel de Control Analítico  | Integración con CRM               |
-  | Bizagi     | Modelado de Procesos BPMN         | Gestión de Casos                   | Colaboración en tiempo real | Integración con Sistemas Externos |
-  | Spyro      | Monitoreo de Actividades          | Seguimiento de Tareas              | Reportes Personalizados     | Integración con APIs              |
+  | Aplicación  | Característica-1                  | Característica-2                   | Característica-3            | Característica-4                  |
+  | ----------- | --------------------------------- | ---------------------------------- | --------------------------- | --------------------------------- |
+  | **Creatio** | Gestión de Procesos Empresariales | Automatización de Flujo de Trabajo | Panel de Control Analítico  | Integración con CRM               |
+  | **Bizagi**  | Modelado de Procesos BPMN         | Gestión de Casos                   | Colaboración en tiempo real | Integración con Sistemas Externos |
+  | **Spyro**   | Monitoreo de Actividades          | Seguimiento de Tareas              | Reportes Personalizados     | Integración con APIs              |
 
 - **Requisitos funcionales:**
-  Considere cuales serán los requisitos funcionales de la aplicación. Estas características deben ser coherentes con el análisis realizado en el punto anterior, y presentar un valor agregado en comparación con las aplicaciones existentes. Represente los requisitos funcionales a través de un árbol de descomposición funcional (máximo 4 niveles de profundidad)
 
-- **Requisitos no funcionales:**
-  mencione cuáles son los requisitos no funcionales más relevantes para el contexto del proyecto. Justifique su respuesta.
+  - Si el campo de correo o contraseña no están llenos, en el caso de correo el numero de letras debe ser mayor a 11 y la contraseña mayor a 8 se bloquearan los botones de las pantallas de ingreso.
+  - Si el usuario no tiene conexión a internet se le debe informar con un mensaje.
+  - Cuando un administrador haga un cambio se mostrará en la pestaña quienes fueron los últimos en hacer cambios y la fecha.
+  - La visibilidad del campo de contraseña debe ser limitada, solo verán \* por cada carácter en este.
+
+  - **Pantalla de Inicio de Sesión:**
+
+    - Si las credenciales no son correctas debe mostrar un mensaje de contraseña incorrecta.
+    - Cuando el usuario ingrese se actualizara en la base de datos la columna "ultima conexión" por la fecha actual.
+    - El usuario tendrá tres intentos para ingresar su contraseña, si consume esos tres intentos, se bloqueará el acceso y se envía un correo con la información del intruso o posible ingreso.
+    - Si el correo o contraseña no son válidos se enviará a la pestaña de registro.
+    - Si el campo de correo no tiene explícitamente "@gmail.com" el botón de ingreso estará desactivo.
+    - Si el usuario ya inicio sesión y vuelve a la pantalla de inicio de sesión las credenciales ingresadas por el usuario se deben guardar y mostrar, para agilizar el ingreso de sesión y no escribirlos cada vez que se devuelva.
+
+  - **Pantalla de Registro:**
+
+    - El campo de correo debe tener por lo menos 11 caracteres para activar el botón de "enviar código de confirmación"
+    - Cuando se presione el botón "enviar código de confirmación", se debe enviar un correo con un código aleatorio de 6 digitos.
+    - El usuario tendrá solo 4 intentos para ingresar el código de confirmación, si consume estos 4 intentos se bloqueará la pantalla de registro.
+    - Tendrá dos campos de contraseña, el segundo para confirmarla, si no son iguales no se activara el botón registrar.
+    - Si todas las credenciales cumplen con todos los requisitos, Se enviará un correo de bienvenida, se publicará en la base de datos todas sus credenciales y estará en espera para que confirmen su tipo de usuario.
+
+  - **Pantalla de Recuperación de Contraseña:**
+
+    - El campo de correo debe tener por lo menos 11 caracteres para activar el botón de "enviar código de confirmación"
+    - Cuando se presione el botón "enviar código de confirmación", se debe enviar un correo con un código aleatorio de 6 digitos.
+    - El usuario tendrá solo 4 intentos para ingresar el código de confirmación, si consume estos 4 intentos se bloqueará la pantalla de registro.
+    - Tendrá dos campos de contraseña, el segundo para confirmarla, si no son iguales no se activara el botón registrar.
+    - Si todas las credenciales cumplen con todos los requisitos, Se enviará un correo de bienvenida, se publicará en la base de datos todas sus credenciales y estará en espera para que confirmen su tipo de usuario.
+
+  - **Pantalla Principal:**
+
+    - Será necesario para proporcionar a los usuarios un punto de entrada claro y funcional a la aplicación.
+    - Contendrá una visión completa y completa de las opciones y funciones clave de la aplicación, garantizando que los usuarios puedan acceder a todas las áreas esenciales.
+    - Mantendrá una presentación consistente y una disposición organizada de las características para que los usuarios puedan navegar y utilizar la aplicación sin confusión.
+    - Mostrará la información de manera correcta y precisa, asegurando que los usuarios reciban una visión correcta de los datos y estadísticas relevantes.
+    - Incluirá funciones factibles y alcanzables, evitando características complejas que puedan afectar la usabilidad y el rendimiento de la aplicación.
+    - Será diseñado de manera que permita una fácil modificación en el futuro, para que se puedan incorporar nuevas funciones y ajustes según las necesidades cambiantes de los usuarios y el mercado.
+    - Priorizará las opciones y funciones según su importancia y frecuencia de uso, para que los usuarios puedan acceder rápidamente a lo que necesitan más.
+
+  - **Pantalla de Modelado y Simulación:**
+
+    - Será necesario para proporcionar a los usuarios las herramientas necesarias para realizar modelados y simulaciones de manera efectiva.
+    - Contendrá funciones completas y completas que permitan a los usuarios cargar, configurar, ejecutar y analizar modelos y simulaciones de manera integral.
+    - Mantendrá una consistencia en la disposición de las herramientas y opciones, asegurando que los usuarios encuentren una experiencia uniforme a lo largo de diferentes simulaciones.
+    - Garantizará la precisión y corrección en los cálculos y representaciones de los modelos y simulaciones, para proporcionar resultados confiables y útiles.
+    - Ofrecerá herramientas y funciones factibles y realistas, evitando características demasiado complejas o difíciles de implementar.
+    - Será diseñado de manera que permita la modificación de parámetros y configuraciones sin afectar la estabilidad del sistema.
+    - Priorizará las herramientas y funciones más utilizadas y esenciales para que los usuarios puedan acceder rápidamente a lo que necesitan para su trabajo.
+
+  - **Pantalla de Informes y Gráficos:**
+
+    - Será necesario para proporcionar a los usuarios información visual y detallada basada en los datos de la aplicación.
+    - Contendrá informes y gráficos completos y exhaustivos que presenten de manera coherente los datos y tendencias relevantes.
+    - Mantendrá una presentación consistente y uniforme de informes y gráficos, asegurando que los usuarios puedan comprender fácilmente la información presentada.
+    - Garantizará la corrección y precisión de los informes y gráficos generados, evitando errores que puedan afectar las decisiones basadas en datos.
+    - Ofrecerá opciones factibles para personalizar y configurar los informes y gráficos según las preferencias del usuario.
+    - Será diseñado de manera que permita la modificación y actualización de informes y gráficos según nuevas necesidades o cambios en los datos.
+    - Priorizará la generación de informes y gráficos más relevantes y necesarios para los usuarios, para que puedan acceder rápidamente a la información esencial.
+
+  - **Pantalla de Configuración:**
+
+    - Será necesario para permitir a los usuarios personalizar la aplicación según sus preferencias y necesidades.
+    - Contendrá opciones completas y completas que abarquen diferentes aspectos de la configuración, como la interfaz de usuario, las notificaciones y la seguridad.
+    - Mantendrá una presentación consistente y uniforme de las opciones de configuración, asegurando que los usuarios puedan ajustar la aplicación sin dificultades.
+    - Garantizará la corrección y coherencia de las opciones de configuración, evitando configuraciones que puedan causar problemas o conflictos.
+    - Ofrecerá opciones factibles que se puedan implementar de manera realista y sin afectar la estabilidad de la aplicación.
+    - Será diseñado de manera que permita la modificación de las opciones de configuración sin requerir cambios fundamentales en la arquitectura de la aplicación.
+    - Priorizará las opciones de configuración más esenciales y utilizadas para que los usuarios puedan adaptar rápidamente la aplicación a sus necesidades.
+
+  - **Pantalla de Ayuda y Soporte:**
+
+    - Será necesario para brindar a los usuarios la asistencia y recursos necesarios para utilizar la aplicación de manera efectiva.
+    - Contendrá información completa y completa, como preguntas frecuentes, tutoriales y manuales de usuario, para ayudar a los usuarios a comprender y utilizar la aplicación.
+    - Mantendrá una presentación consistente y uniforme de los recursos de ayuda y soporte, asegurando que los usuarios puedan acceder a la información de manera coherente.
+    - Garantizará la corrección y precisión de los recursos de ayuda y soporte, evitando información incorrecta o engañosa.
+    - Ofrecerá soluciones factibles y prácticas para los problemas comunes que los usuarios puedan enfrentar durante el uso de la aplicación.
+    - Será diseñado de manera que permita la actualización y adición de nuevos recursos de ayuda y soporte según las necesidades cambiantes.
+    - Priorizará la presentación de información y recursos de ayuda más relevantes y necesarios para los usuarios, para que puedan resolver rápidamente sus problemas.
+
+  - **Pantalla de Administración de Usuarios:**
+
+    - Será necesario para que los administradores puedan gestionar usuarios y roles de manera efectiva.
+    - Contendrá funciones completas y completas que permitan a los administradores agregar, modificar y eliminar usuarios, así como asignar roles y permisos.
+    - Mantendrá una presentación consistente y uniforme de las funciones de administración de usuarios, para que los administradores puedan gestionar usuarios de manera coherente.
+    - Garantizará la corrección y precisión de las acciones de administración de usuarios, evitando errores que puedan afectar la base de datos de usuarios.
+    - Ofrecerá opciones factibles para gestionar usuarios y roles de manera práctica y sin complicaciones.
+    - Será diseñado de manera que permita la modificación de roles y permisos sin afectar la integridad de la base de datos de usuarios.
+    - Priorizará las funciones de administración de usuarios más esenciales y utilizadas por los administradores, para que puedan realizar tareas de gestión de manera rápida.
+
+  - **Pantalla de Notificaciones:**
+
+    - Será necesario para proporcionar a los usuarios información relevante y oportuna a través de notificaciones.
+    - Contendrá notificaciones completas y completas que informen a los
+
+    usuarios sobre eventos importantes, como actualizaciones y mensajes críticos.
+
+    - Mantendrá una presentación consistente y uniforme de las notificaciones, asegurando que los usuarios puedan entender rápidamente la información proporcionada.
+    - Garantizará la corrección y precisión de las notificaciones enviadas, evitando errores que puedan causar malentendidos o confusión.
+    - Ofrecerá opciones factibles para personalizar las preferencias de notificación según la relevancia y prioridad de los eventos.
+    - Será diseñado de manera que permita la modificación y adición de nuevos tipos de notificaciones según las necesidades futuras.
+    - Priorizará las notificaciones más relevantes y esenciales para los usuarios, para que puedan estar informados rápidamente sobre eventos importantes.
+
+  - **Pantalla de Actualizaciones y Novedades:**
+
+    - Será necesario para informar a los usuarios sobre las últimas actualizaciones y mejoras de la aplicación.
+    - Contendrá descripciones completas y completas de las actualizaciones implementadas, detallando cómo afectan la funcionalidad y la experiencia del usuario.
+    - Mantendrá una presentación consistente y uniforme de las actualizaciones y novedades, para que los usuarios puedan comprender rápidamente las mejoras.
+    - Garantizará la corrección y precisión de la información proporcionada sobre las actualizaciones, evitando información engañosa o incorrecta.
+    - Ofrecerá opciones factibles para acceder a más detalles sobre las actualizaciones y enlaces a recursos adicionales.
+    - Será diseñado de manera que permita la adición de nuevas actualizaciones y novedades sin afectar la estructura de la pantalla.
+    - Priorizará la presentación de las actualizaciones más importantes y significativas para que los usuarios puedan entender rápidamente los cambios en la aplicación.
+      mencione cuáles son los requisitos no funcionales más relevantes para el contexto del proyecto. Justifique su respuesta.
+
+- **Requerimientos No Funcionales:**
+
+  - **Gráficas en Tiempo Real:**
+
+    - El sistema debe contar con gráficas en tiempo real que muestren de manera dinámica los procesos en ejecución. Estas gráficas deben ser escalables y eficientes en términos de rendimiento. Además, deben ser configurables para mostrar diferentes tipos de procesos.
+
+  - **Subida de Modelos de Procesos:**
+
+    - Los usuarios podrán subir sus propios modelos de procesos para su análisis y simulación. La aplicación debe admitir una variedad de formatos de archivos, y los modelos subidos deben pasar por un proceso de validación para asegurar su integridad y compatibilidad con la plataforma.
+
+  - **Actualizaciones en Cada Lanzamiento:**
+
+    - La aplicación será actualizada en cada lanzamiento para garantizar la incorporación de nuevas características y correcciones. Los usuarios recibirán notificaciones claras sobre las actualizaciones y podrán acceder a detalles sobre los cambios realizados.
+
+  - **Gama de Colores Adecuados:**
+
+    - La interfaz de la aplicación utilizará una gama de colores diseñada específicamente para el contexto industrial al que está dirigida. Se priorizará la elección de colores que sean legibles, contrastantes y adecuados para transmitir información de manera clara.
+
+  - **Control de Edición en la Aplicación:**
+
+    - Los administradores tendrán la capacidad de modificar contenidos y configuraciones en la aplicación. Sin embargo, para evitar conflictos, solo un administrador podrá realizar cambios en una pestaña específica a la vez. Los otros administradores podrán observar los cambios en tiempo real sin intervenir.
+
+  - **Almacenamiento de Cuentas en la Base de Datos:**
+
+    - Las cuentas de usuarios almacenadas en la base de datos se asegurarán mediante medidas de seguridad adecuadas, como el cifrado de contraseñas. Se implementará un proceso de eliminación segura para las cuentas que no hayan sido utilizadas en un período de tres meses.
+
+  - **Eliminación de Cuentas Inactivas:**
+
+    - Las cuentas de usuarios que no se utilicen durante más de tres meses serán identificadas como inactivas. Antes de eliminarlas, se notificará a los usuarios sobre la posible eliminación y se proporcionará un período de tiempo para reactivar su cuenta si así lo desean.
+
+  - **Tipos de Usuario y sus Roles:**
+
+    - Los usuarios de la aplicación se dividirán en cuatro tipos, cada uno con roles y privilegios específicos:
+      - **Gerentes de Producción:** Encargados de la planificación y supervisión de la producción industrial.
+      - **Analistas de Eficiencia Energética:** Expertos en optimización del consumo de recursos energéticos.
+      - **Ingenieros de Procesos:** Profesionales que modelan y optimizan procesos industriales.
+      - **Estudiantes e Investigadores:** Utilizan la aplicación para aprender y estudiar procesos industriales.
+
+  - **Roles de Administrador:**
+
+    - Los administradores tendrán diferentes roles y niveles de acceso en función de sus responsabilidades. Habrá un "superadministrador" con poderes más amplios, mientras que otros administradores tendrán roles más específicos.
+
+  - **Seguridad y Privacidad:**
+
+    - Se implementarán medidas de seguridad sólidas para proteger la información de los usuarios y garantizar la confidencialidad de los datos almacenados en la aplicación. Esto incluirá el cifrado de datos sensibles y la autenticación segura.
+
+  - **Escalabilidad:**
+
+    - La aplicación estará diseñada para ser escalable y capaz de manejar un aumento en la cantidad de usuarios. Se optimizará el rendimiento y la capacidad de respuesta para asegurar una experiencia fluida incluso en momentos de alta demanda.
+
+  - **Compatibilidad de Dispositivos:**
+
+    - La aplicación será compatible con una variedad de dispositivos, incluyendo dispositivos móviles, tablets y computadoras. Se garantizará una experiencia de usuario coherente en todas las plataformas.
+
+  - **Documentación:**
+
+    - Se proporcionará documentación exhaustiva, incluyendo manuales de usuario, guías de administrador y recursos de soporte. Esto permitirá a los usuarios aprovechar al máximo la aplicación y resolver cualquier problema que puedan encontrar.
 
 - **Alcances del sistema:**
-  las limitaciones y alcances del desarrollo según los objetivos previamente establecidos (considere la triple restricción)
+
+  - El sistema se enfocará en implementar las funcionalidades esenciales definidas en los Requerimientos Funcionales y No Funcionales. Se priorizará la funcionalidad sobre la estética de la interfaz de usuario, y se garantizará la compatibilidad con dispositivos de escritorio.
+
+  - La seguridad se mantendrá a través de medidas estándar, aunque características avanzadas como autenticación de dos factores podrían ser consideradas en el futuro. La documentación será básica en un principio, con planes para expandirla en versiones posteriores.
+
+  - El sistema se desarrollará de manera iterativa, lanzando versiones incrementales con nuevas características y mejoras basadas en los comentarios de los usuarios. Las actualizaciones se planificarán según las necesidades del mercado y las retroalimentaciones.
+
+  - La integración con sistemas externos se considerará en etapas posteriores, y se utilizarán eficientemente los recursos disponibles en términos de tiempo y costo.
 
 - **Tecnologías seleccionadas:**
   _GreenOps_ se desarrollará utilizando las siguientes tecnologías:
@@ -158,6 +332,10 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 - **Pantalla de Registro:**
 
   - Permite a los nuevos usuarios crear una cuenta en la aplicación.
+
+- **Pantalla de Recuperación de Contraseña:**
+
+  - Permite al usuario recibir un correo para restablecer su contraseña.
 
 - **Pantalla Principal:**
 
