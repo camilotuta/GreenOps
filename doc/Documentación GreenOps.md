@@ -275,9 +275,7 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
   - Plataforma de Despliegue: Docker.
 
-### **_Toda la información debe estar almacenada en la página del proyecto._**
-
-##### **_Construya una presentación (formato 10- 15 min) donde presente su idea de proyecto (la presentación debe contener la información de los puntos de los puntos 1,2,3 y 4)_**
+[Presentacion](https://www.canva.com/design/DAFrA2Mk0kg/GPSIsVQc-SVUu8AG1g9nDw/edit?utm_content=DAFrA2Mk0kg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
