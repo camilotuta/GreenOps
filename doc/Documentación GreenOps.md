@@ -90,7 +90,7 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
     - Cuando el usuario ingrese se actualizara en la base de datos la columna "ultima conexión" por la fecha actual.
     - El usuario tendrá tres intentos para ingresar su contraseña, si consume esos tres intentos, se bloqueará el acceso y se envía un correo con la información del intruso o posible ingreso.
     - Si el correo o contraseña no son válidos se enviará a la pestaña de registro.
-    - Si el campo de correo no tiene explícitamente "@gmail.com" el botón de ingreso estará desactivo.
+    - Si el campo de correo no tiene explícitamente "@gmail.com"/"@outlook.com" el botón de ingreso estará desactivo.
     - Si el usuario ya inicio sesión y vuelve a la pantalla de inicio de sesión las credenciales ingresadas por el usuario se deben guardar y mostrar, para agilizar el ingreso de sesión y no escribirlos cada vez que se devuelva.
 
   - **Pantalla de Registro:**
@@ -191,7 +191,6 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
     - Ofrecerá opciones factibles para acceder a más detalles sobre las actualizaciones y enlaces a recursos adicionales.
     - Será diseñado de manera que permita la adición de nuevas actualizaciones y novedades sin afectar la estructura de la pantalla.
     - Priorizará la presentación de las actualizaciones más importantes y significativas para que los usuarios puedan entender rápidamente los cambios en la aplicación.
-      mencione cuáles son los requisitos no funcionales más relevantes para el contexto del proyecto. Justifique su respuesta.
 
 - **Requerimientos No Funcionales:**
 
