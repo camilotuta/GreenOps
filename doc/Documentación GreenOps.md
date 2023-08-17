@@ -1,3 +1,6 @@
+mejorar información en:
+pantalla de modelado y simulación
+
 <p align="center">
   <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
@@ -121,13 +124,38 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
   - **Pantalla de Modelado y Simulación:**
 
-    - Será necesario para proporcionar a los usuarios las herramientas necesarias para realizar modelados y simulaciones de manera efectiva.
-    - Contendrá funciones completas y completas que permitan a los usuarios cargar, configurar, ejecutar y analizar modelos y simulaciones de manera integral.
-    - Mantendrá una consistencia en la disposición de las herramientas y opciones, asegurando que los usuarios encuentren una experiencia uniforme a lo largo de diferentes simulaciones.
-    - Garantizará la precisión y corrección en los cálculos y representaciones de los modelos y simulaciones, para proporcionar resultados confiables y útiles.
-    - Ofrecerá herramientas y funciones factibles y realistas, evitando características demasiado complejas o difíciles de implementar.
-    - Será diseñado de manera que permita la modificación de parámetros y configuraciones sin afectar la estabilidad del sistema.
-    - Priorizará las herramientas y funciones más utilizadas y esenciales para que los usuarios puedan acceder rápidamente a lo que necesitan para su trabajo.
+    - Herramientas Efectivas para Modelados y Simulaciones:
+
+      - Proporcionar una amplia gama de herramientas que abarquen diversos tipos de modelado y simulación, como modelos matemáticos, simulaciones físicas, simulaciones basadas en agentes, etc.
+      - Incluir una interfaz intuitiva que permita a los usuarios crear y personalizar sus modelos y simulaciones desde cero, o utilizar plantillas predefinidas para casos comunes.
+
+    - Funciones Completas para Cargar, Configurar, Ejecutar y Analizar:
+
+      - Permitir la importación de datos externos en varios formatos (CSV) para utilizarlos como entradas en los modelos.
+      - Proporcionar opciones detalladas de configuración para ajustar parámetros y condiciones iniciales según los requisitos específicos del modelo.
+      - Ofrecer la capacidad de ejecutar simulaciones paso a paso para un análisis detallado o en tiempo real para una visión general rápida.
+      - Incorporar herramientas de visualización interactiva que permitan a los usuarios analizar los resultados de manera efectiva, como gráficos 2D/3D, animaciones y representaciones visuales de datos.
+
+    - Consistencia en la Disposición de Herramientas y Opciones:
+
+      - Diseñar una interfaz con una disposición coherente, donde las herramientas y opciones relacionadas estén agrupadas de manera lógica y ordenada.
+      - Utilizar un diseño y estilo uniforme en toda la pantalla para brindar una experiencia fluida y sin confusiones a través de diferentes simulaciones.
+
+    - Precisión y Corrección en los Cálculos y Representaciones:
+
+      - Emplear métodos numéricos y algoritmos confiables para garantizar que los cálculos sean precisos y consistentes con los principios del modelado y la simulación.
+      - Validar las entradas del usuario para evitar errores y prevenir resultados incoherentes debido a configuraciones incorrectas.
+
+    - Herramientas y Funciones Factibles y Realistas:
+
+      - Proporcionar opciones que sean relevantes y aplicables a una variedad de campos, evitando características excesivamente especializadas o difíciles de entender para usuarios no expertos.
+
+    - Diseño que Permita Modificaciones sin Comprometer la Estabilidad:
+
+      - Desarrollar el sistema de manera modular, de modo que los cambios en los parámetros y configuraciones no generen fallas o errores en la aplicación.
+
+    - Priorización de Herramientas y Funciones Esenciales:
+      - Identificar las acciones y herramientas más utilizadas en escenarios de modelado y simulación y ubicarlas en posiciones destacadas y de fácil acceso en la interfaz.
 
   - **Pantalla de Informes y Gráficos:**
 
@@ -267,7 +295,7 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
   - Entorno de Desarrollo: _Visual Studio Code_, NetBeans, NeoVim.
 
-  - Bibliotecas y Frameworks: Swing.
+  - Bibliotecas y Frameworks: Swing, JFreeChart, XChart o JMathPlot, Log4j o SLF4J, JUnit o TestNG, JavaMail, Apache Commons Math.
 
   - Base de Datos: MySQL.
 
@@ -275,7 +303,7 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
   - Plataforma de Despliegue: Docker.
 
-[Presentacion](https://www.canva.com/design/DAFrA2Mk0kg/GPSIsVQc-SVUu8AG1g9nDw/edit?utm_content=DAFrA2Mk0kg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentación](https://www.canva.com/design/DAFrA2Mk0kg/GPSIsVQc-SVUu8AG1g9nDw/edit?utm_content=DAFrA2Mk0kg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
