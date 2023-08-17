@@ -1,6 +1,3 @@
-mejorar información en:
-pantalla de modelado y simulación
-
 <p align="center">
   <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
