@@ -4,7 +4,7 @@
   <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
 
-<h6 align="right">Adrián Camilo Tuta Cortés y Miguel Angel Bejarano</h6>
+<h6 align="right">Adrián Camilo Tuta Cortés y Miguel Ángel Bejarano</h6>
 <h6 align="right">04 de agosto de 2023</h6>
 
 ---
@@ -103,7 +103,7 @@
 - Los usuarios tendrán tres intentos para ingresar la contraseña correctamente. Después de tres intentos fallidos, se bloqueará el acceso y se enviará un correo de alerta.
 - Si el correo o la contraseña no son válidos, se redirigirá al usuario a la pestaña de registro.
 - El botón de ingreso solo estará activo si el campo de correo contiene "@gmail.com" o "@outlook.com".
-- Las credenciales ingresadas en la pantalla de inicio de sesión se guardarán y auto-completarán si el usuario vuelve a esta pantalla después de iniciar sesión.
+- Las credenciales ingresadas en la pantalla de inicio de sesión se guardarán y autocompletarán si el usuario vuelve a esta pantalla después de iniciar sesión.
 
 #### Pantalla de Registro:
 
