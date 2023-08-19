@@ -213,7 +213,7 @@
 - Control de Versiones: Git.
 - Plataforma de Despliegue: Docker.
 
-### 5. [Presentación del proyecto](https://www.canva.com/design/DAFrA2Mk0kg/GPSIsVQc-SVUu8AG1g9nDw/edit?utm_content=DAFrA2Mk0kg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 5. [Presentación del proyecto](https://www.canva.com/design/DAFrA2Mk0kg/GPSIsVQc-SVUu8AG1g9nDw/edit?utm_content=DAFrA2Mk0kg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
