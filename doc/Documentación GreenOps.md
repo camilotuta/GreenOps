@@ -1,10 +1,10 @@
-<!-- TODO: QUITAR O PONER PALABRAS SUBRAYADAS Y ANALIZAR TODO EL DOCUMENTO-->
+<!-- TODO: TERMINAR LA PARTE DE LA APLICACIÓN, PUNTO 5 del apartado APLICACIÓN-->
 
 <p align="center">
   <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
 
-<h6 align="right">Adrián Camilo Tuta Cortés y Miguel Ángel Bejarano</h6>
+<h6 align="right">Adrián Camilo Tuta Cortés, Miguel Ángel Bejarano e Irving Rios Ramirez.</h6>
 <h6 align="right">04 de agosto de 2023</h6>
 
 ---
