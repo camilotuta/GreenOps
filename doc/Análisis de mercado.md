@@ -86,6 +86,8 @@ En estas 10 entrevistas, se exploran opiniones y percepciones sobre el cuidado d
 
 - **_Enfoque industrial_**: La percepción de la importancia de las aplicaciones que muestran procesos industriales varía según el contexto educativo y profesional de los entrevistados. Esto sugiere que el valor de estas aplicaciones puede depender del enfoque de estudio o trabajo de cada individuo.
 
+En resumen, estas entrevistas ofrecen una visión diversa de cómo las personas perciben la importancia del cuidado del medio ambiente, la educación sostenible y el potencial de las aplicaciones para impulsar cambios positivos en la sociedad. Las preocupaciones por la confiabilidad, la educación y la conexión intergeneracional se destacan como temas recurrentes en las respuestas de los entrevistados.
+
 ---
 
 ## <center> <h6>ENCUESTA</h6></center>
