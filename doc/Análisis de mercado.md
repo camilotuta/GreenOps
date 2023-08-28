@@ -91,125 +91,125 @@ En estas 10 entrevistas, se exploran opiniones y percepciones sobre el cuidado d
 ## <center> <h6>ENCUESTA</h6></center>
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-1.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-1.png?raw=true" alt="Gráfica" width="600"/>
 </p>
 
 1. ¿Conoces un programa de cuidado ambiental en tu municipio o ciudad?
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-2.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-2.png?raw=true" alt="Gráfica" width="600"/>
 </p>
 
 2. ¿Qué tan importante te parece el cuidado del medio ambiente?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-3.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-3.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 3. ¿Has visto alguna vez aplicaciones o paginas web para aprender sobre practicas sostenibles o el cuidado del medio ambiente?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-4.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-4.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 4. ¿Cómo te sentirías si la aplicación colaborara con empresas y organizaciones para ofrecer recompensas, descuentos y otras ventajas a los usuarios comprometidos?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-5.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-5.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 5. ¿Crees que la las aplicaciones relacionada con el medio ambiente son efectivas para inspirar un cambio?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-6.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-6.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 6. En la situación actual, ¿qué tan importante consideras la optimización sostenible de los procesos industriales?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-7.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-7.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 7. ¿Qué beneficios crees que podrían derivarse de la implementación de un software como GreenOps en las industrias? (Selecciona todas las opciones que apliquen)
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-8.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-8.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 8. ¿Qué desafíos consideras que podrían surgir al implementar un software como GreenOps en las industrias?, (Selecciona todas las opciones que apliquen)
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-9.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-9.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 9. De las siguientes funcionalidades, ¿cuál consideras que es la más esencial en el software GreenOps?, (Selecciona todas las opciones que apliquen)
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-10.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-10.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 10. ¿Cómo valoras la importancia del proyecto GreenOps y su enfoque en la optimización sostenible de procesos industriales para abordar la acción por el clima?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-11.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-11.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 11. ¿Consideras que la inclusión de notificaciones pertinentes y oportunas es esencial en el software GreenOps?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-12.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-12.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 12. ¿Crees que la subdivisión de usuarios en diferentes categorías con roles específicos es una característica importante?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-13.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-13.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 13. ¿Estarías dispuesto/a a implementar un software como GreenOps en tu empresa u organización para optimizar procesos industriales?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-14.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-14.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 14. ¿Consideraría probar nuevas soluciones en el futuro?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-15.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-15.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 15. ¿Tienes algún comentario adicional o sugerencia para mejorar el concepto del proyecto GreenOps?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-16.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-16.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 16. Su género
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-17.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-17.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 17. Su edad
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-18.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-18.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 18. Programa académico
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-19.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-19.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 19. ¿Cómo describiría su dominio de la informática?
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-20.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-20.png?raw=true" alt="Gráfica" width="600"/>
   </p>
 
 20. Agradecemos que hayas dedicado tiempo a completar esta encuesta. Tus respuestas nos ayudarán a dar forma al desarrollo de GreenOps de manera más efectiva y enfocada en las necesidades de la comunidad industrial y sostenible.
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-21.png?raw=true" alt="Gráfica" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/estadisticas/image-21.png?raw=true" alt="Gráfica" width="600"/>
   </p>
