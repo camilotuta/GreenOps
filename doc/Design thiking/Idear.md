@@ -8,3 +8,9 @@
 ---
 
 # <center> <h6>IDEAR</h6></center>
+
+## Brainstorming
+
+  <p align="center">
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/Brainstorming.png?raw=true" alt="Gráfica" width="1000"/>
+  </p>
