@@ -12,5 +12,5 @@
 ## Mapa de empatía
 
   <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/MapaEmpatia.jpg?raw=true" alt="Gráfica" width="600"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/MapaEmpatia.jpg?raw=true" alt="Gráfica" width="1000"/>
   </p>
