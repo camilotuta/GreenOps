@@ -12,29 +12,29 @@
 ## Mapa de Actores
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/MapaActores1.png?raw=true" alt="Mapa de Actores" width="1000"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/MapaActores1.png?raw=true" alt="Mapa de Actores" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/MapaActores2.png?raw=true" alt="Mapa de Actores" width="1000"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/MapaActores2.png?raw=true" alt="Mapa de Actores" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/MapaActores3.png?raw=true" alt="Mapa de Actores" width="1000"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/MapaActores3.png?raw=true" alt="Mapa de Actores" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/MapaActoresConclusiones.png?raw=true" alt="Mapa de Actores" width="1000"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/MapaActoresConclusiones.png?raw=true" alt="Mapa de Actores" width="1000"/>
 </p>
 
 ## Benchmarking
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/Benchmarking.jpg?raw=true" alt="Benchmarking" width="1000"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/Benchmarking.jpg?raw=true" alt="Benchmarking" width="1000"/>
 </p>
 
 ## 5 whys
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/Whys.jpg?raw=true" alt="Whys" width="1000"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/ilustraciones/Whys.jpg?raw=true" alt="Whys" width="1000"/>
 </p>
