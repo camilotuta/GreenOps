@@ -227,7 +227,6 @@ Los usuarios de la aplicación se dividirán en cuatro tipos, cada uno con roles
 - _Gerentes de Producción:_ Encargados de la **planificación y supervisión** de la producción industrial.
 - _Analistas de Eficiencia Energética:_ Expertos en optimización del **consumo de recursos** energéticos.
 - _Ingenieros de Procesos:_ Profesionales que **modelan y optimizan** procesos industriales.
-- _Estudiantes e Investigadores:_ Utilizan la aplicación para **aprender y estudiar** procesos industriales.
 
 #### 4.2.9. **Roles de Administrador:**
 
@@ -239,11 +238,11 @@ Se implementarán medidas de seguridad sólidas para proteger la información de
 
 #### 4.2.11. **Escalabilidad:**
 
-La aplicación estará diseñada para ser escalable y capaz de manejar un **aumento en la cantidad de usuarios**. Se optimizará **el rendimiento** y la capacidad de respuesta para asegurar una experiencia fluida incluso en momentos de alta demanda.
+La aplicación estará diseñada para ser escalable y capaz de manejar un **aumento en la cantidad de datos e información**. Se optimizará **el rendimiento** y la capacidad de respuesta para asegurar una experiencia fluida incluso en momentos de alta demanda.
 
 #### 4.2.12. **Compatibilidad:**
 
-Inicialmente, la aplicación estará diseñada para ser compatible exclusivamente con computadoras, garantizando una experiencia de usuario coherente en esta plataforma. No obstante, se considerará la posibilidad de implementar la aplicación en tablets en futuras etapas de desarrollo.
+La aplicación estará diseñada para ser compatible con sistemas operativos como: Android, IOS, Windows, MACOS y Linux, garantizando una experiencia de usuario coherente en esta plataforma
 
 #### 4.2.13. **Documentación:**
 
