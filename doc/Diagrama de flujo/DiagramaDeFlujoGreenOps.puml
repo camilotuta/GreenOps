@@ -1,0 +1,44 @@
+@startuml GreenOps
+|Iniciar Sesión|
+start
+:Permite a los usuarios ingresar sus credenciales para acceder a la aplicación.;
+if (¿Usuario registrado?) then (No)
+:Mostrar pantalla principal;
+:Mostrar pantalla de registro;
+:Permite a los nuevos usuarios crear una cuenta en la aplicación.;
+:Mostrar pantalla de recuperación de contraseña;
+:Permite al usuario recibir un correo para restablecer su contraseña.;
+
+else (Sí)
+|Pantalla Principal|
+:Ver Visión General de Procesos e Indicadores KPI;
+:Acceder a Modelado y Simulación;
+:Acceder a Informes y Gráficos;
+:Acceder a Configuración;
+:Acceder a Ayuda y Soporte;
+:Acceder a Notificaciones;
+:Ver Actualizaciones y Novedades;
+|Modelado y Simulación|
+:Permite a los usuarios cargar modelos de procesos;
+:Permite a los usuarios realizar simulaciones;
+:Permite a los usuarios ver los resultados de optimización;
+:Permite a los administradores supervisar simulaciones;
+:Sistema Externo puede enviar modelos de procesos;
+|Informes y Gráficos|
+:Permite a los usuarios ver informes detallados;
+:Permite a los usuarios ver gráficos de simulaciones y optimizaciones;
+:Permite a los administradores generar informes avanzados;
+|Configuración|
+:Permite a los usuarios personalizar la configuración de la aplicación;
+:Permite a los usuarios ajustar parámetros de simulación;
+:Permite a los administradores configurar permisos de usuarios;
+|Ayuda y Soporte|
+:Permite a los usuarios acceder a recursos de ayuda;
+|Administración de Usuarios|
+:Permite a los administradores gestionar usuarios, roles y permisos;
+|Notificaciones|
+:Permite a los usuarios ver notificaciones importantes;
+|Actualizaciones y Novedades|
+:Permite a los usuarios ver nuevas funcionalidades y actualizaciones;
+endif
+@enduml

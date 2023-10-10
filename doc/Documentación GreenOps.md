@@ -1,5 +1,3 @@
-<!-- TODO: TERMINAR LA PARTE DE LA APLICACIÓN, PUNTO 5 del apartado APLICACIÓN-->
-
 <p align="center">
   <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
 </p>
@@ -257,9 +255,9 @@ Se proporcionará documentación exhaustiva, incluyendo **manuales de usuario**,
 
 ### 4.4. Tecnologías seleccionadas:
 
-- _Lenguaje de Programación_: **Java**.
-- _Entorno de Desarrollo_: Visual Studio Code, NetBeans, **NeoVim**.
-- _Bibliotecas y Frameworks_: **Swing**, **JFreeChart**, XChart o **JMathPlot**, Log4j o SLF4J, JUnit o TestNG, **JavaMail**, Apache Commons Math.
+- _Lenguaje de Programación_: **JavaScript**.
+- _Entorno de Desarrollo_: Visual Studio Code, **NeoVim**.
+- _Bibliotecas y Frameworks_: **React**, **JFreeChart**, XChart o **JMathPlot**, Log4j o SLF4J, JUnit o TestNG, **JavaMail**, Apache Commons Math.
 - _Base de Datos_: **MySQL**.
 - _Control de Versiones_: Git.
 - _Plataforma de Despliegue_: Docker.

@@ -1,0 +1,75 @@
+@startuml GreenOps
+left to right direction
+
+skinparam ranksep 500
+skinparam nodesep 100
+skinparam padding 10
+skinparam boxPadding 20
+
+actor Usuario as U
+actor Administrador as A
+actor SistemaExterno as SE
+
+rectangle "Pantalla de Inicio de Sesión" as Login {
+  U --> (Ingresar Credenciales)
+  (Olvidé mi contraseña) --> Recuperación : Solicitar recuperación
+}
+
+rectangle "Pantalla de Registro" as Registro {
+  U --> (Crear Cuenta)
+}
+
+rectangle "Pantalla de Recuperación de Contraseña" as Recuperación {
+  (Ingresar nueva contraseña) --> Recuperación : Restablecer contraseña
+}
+
+
+rectangle "Pantalla Principal" as Principal {
+  U --> (Ver Visión General de Procesos e Indicadores KPI)
+  (Acceder a Modelado y Simulación) --> Modelado
+  (Acceder a Informes y Gráficos) --> Informes
+  (Acceder a Configuración) --> Configuración
+  (Acceder a Ayuda y Soporte) --> Ayuda
+  (Acceder a Administración de Usuarios) --> Administración
+  (Acceder a Notificaciones) --> Notificaciones
+  (Ver Actualizaciones y Novedades) --> Actualizaciones
+}
+
+rectangle "Pantalla de Modelado y Simulación" as Modelado {
+  U --> (Cargar Modelos de Procesos)
+  U --> (Realizar Simulaciones)
+  U --> (Ver Resultados de Optimización)
+  (Descargar resultados) --> Modelado : Descargar
+  A --> Modelado : Supervisar simulaciones
+  SE --> Modelado : Enviar modelos de procesos
+}
+
+rectangle "Pantalla de Informes y Gráficos" as Informes {
+  U --> (Ver Informes Detallados)
+  U --> (Ver Gráficos de Simulaciones y Optimizaciones)
+  (Descargar informes) --> Informes : Descargar
+  A --> Informes : Generar informes avanzados
+}
+
+rectangle "Pantalla de Configuración" as Configuración {
+  U --> (Personalizar Configuración de la Aplicación)
+  U --> (Ajustar Parámetros de Simulación)
+  A --> Configuración : Configurar permisos de usuarios
+}
+
+rectangle "Pantalla de Ayuda y Soporte" as Ayuda {
+  U --> (Acceder a Recursos de Ayuda)
+}
+
+rectangle "Pantalla de Administración de Usuarios" as Administración {
+  A --> (Gestionar Usuarios, Roles y Permisos)
+}
+
+rectangle "Pantalla de Notificaciones" as Notificaciones {
+  U --> (Ver Notificaciones Importantes)
+}
+
+rectangle "Pantalla de Actualizaciones y Novedades" as Actualizaciones {
+  U --> (Ver Nuevas Funcionalidades y Actualizaciones)
+}
+@enduml
