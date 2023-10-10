@@ -10,5 +10,5 @@
 # <center> <h6>CASOS DE USO</h6></center>
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/img\ilustraciones\CasosDeUsoGreenOps.png?raw=true" alt="GreenOps casos de uso" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img\ilustraciones\CasosDeUsoGreenOps.png?raw=true" alt="GreenOps casos de uso"/>
 </p>

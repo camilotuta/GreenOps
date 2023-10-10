@@ -10,5 +10,5 @@
 # <center> <h6>DIAGRAMA DE FLUJO</h6></center>
 
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/img\ilustraciones\DiagramaDeFlujoGreenOps.png?raw=true" alt="GreenOps diagrama de flujo" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img\ilustraciones\DiagramaDeFlujoGreenOps.png?raw=true" alt="GreenOps diagrama de flujo" />
 </p>
